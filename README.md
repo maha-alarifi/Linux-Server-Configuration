@@ -1,5 +1,6 @@
 
 # Linux Server Configuration
+## Project of Udacity Fullstack Web Development Nanodegree
 
 ### IP Address
 
@@ -8,7 +9,7 @@
 
 
 ### Summary of Software Installed
-
+* Apache
 
 ### summary of Configurations Made
 
